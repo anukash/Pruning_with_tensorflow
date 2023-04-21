@@ -13,4 +13,4 @@ Accuracy and size comparision of normal and pruned model can be shown below.
 ```
 1. I am not trying to fine tune this model as it is not the motive of this case study .
 2. There is also a minute decrease in prediction time as i was only predicting one data point but when scaled up, it will create a pretty good difference.
-3. Major difference was seen in the decrease in file size of model which is huge.
+3. Major difference can be seen in the decrease in file size of model which is huge.
